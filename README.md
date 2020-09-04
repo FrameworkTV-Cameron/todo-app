@@ -11,6 +11,6 @@ There are three (3) things that need to installed before using this repo.
 ## After That...
 From there, fork this repo.
 
-Each section will be in a new folder containing the exact code as shown in class.
+Each section will be in a new folder containing the exact code as shown in class from **SECTION 2 AND ON**.
 
 **KEEP IN MIND YOU NEED TO CHANGE ANY IMAGES OR ICONS**
