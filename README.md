@@ -11,6 +11,8 @@ There are three (3) things that need to installed before using this repo.
 ## After That...
 From there, fork this repo.
 
-Each section will be in a new folder containing the exact code as shown in class from **SECTION 2 AND ON**.
+Each section will be in a new folder containing the exact code as shown in class from **SECTION 2 AND ON**, seeing as this is section one.
 
 **KEEP IN MIND YOU NEED TO CHANGE ANY IMAGES OR ICONS**
+
+If you at any point need a fresh start from a specific section, remember to run `npm install`
