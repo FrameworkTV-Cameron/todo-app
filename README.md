@@ -16,3 +16,6 @@ Each section will be in a new folder containing the exact code as shown in class
 **KEEP IN MIND YOU NEED TO CHANGE ANY IMAGES OR ICONS**
 
 If you at any point need a fresh start from a specific section, remember to run `npm install`
+
+## SECTION007 - SECTION011
+If you need to start fresh from any of these episodes, there is a string in **./backend/index.js** that needs to be replaced with your personal MongoDB connection URL.

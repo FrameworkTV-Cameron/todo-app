@@ -78,8 +78,7 @@ todoRoutes
     });
 
 const connection = mongoose.connection;
-mongoose.connect("mongodb+srv://CCampos:Potato@42!@frameworktv.2xbn4.gcp.mongodb.net/FrameworkTV?r" +
-        "etryWrites=true&w=majority", {
+mongoose.connect("<Replace with your connection URL>", {
     useNewUrlParser: true,
     useUnifiedTopology: true
 })
